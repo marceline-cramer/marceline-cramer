@@ -1,4 +1,21 @@
-### Hi there 👋
+# Sup, I'm Marceline 👾
+
+You can call me Marcy, Marci, Marcie, or Mars.
+I use she/her pronouns.
+
+# Skills and Experience 🌌
+
+# Tooling 🛠️
+
+# Philosophy 📖
+
+# Crabs 🦀
+
+I like crabs because:
+- they're cute
+- [nature favors them](https://www.youtube.com/watch?v=wvfR3XLXPvw)
+- the Rust mascost is a crab and I like Rust
+- they taste good
 
 <!--
 **marceline-cramer/marceline-cramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

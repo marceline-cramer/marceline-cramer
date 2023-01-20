@@ -19,6 +19,25 @@ I use it/its pronouns.
 
 # Philosophy 📖
 
+I'm a hardcore free software evangelist. I believe that all of the information
+relevant to the creation of a person's possessions should be freely available to
+them, software or not. I don't think that Richard Stallman went far enough.
+
+The "cloud" doesn't really exist; it's just other people's computers.
+
+I'm strongly opposed to "Web3" development, and things such as cryptocurrency and
+NFTs. I believe that cryptocurrency-based softwares are parasites on the free
+exchange of information because they introduce monetization and artificial
+scarcity into an already-functioning informational economy. Also, how the hell am
+I supposed to work as a graphics programmer when the crypto farms keep buying all
+the damn graphics cards?
+
+I'm a former ["metaverse" developer](https://github.com/mondradiko/mondradiko), but
+have since renounced the name "metaverse" because of its association with Web3 and
+(more recently) ~~Meta~~ Facebook. My current efforts are focused on expanding
+collaborative virtual worlds software without compromising on free software
+ideals.
+
 # Crabs 🦀
 
 I like crabs because:

@@ -1,11 +1,21 @@
-# Sup, I'm Marceline 👾
+# Heyo, My Name's Marceline 👾
 
+I make tools.
 You can call me Marcy, Marci, Marcie, or Mars.
-I use she/her pronouns.
+I use it/its pronouns.
 
 # Skills and Experience 🌌
 
 # Tooling 🛠️
+
+| Software | Purpose |
+| --- | --- |
+| [Helix](https://helix-editor.com) | Editor |
+| [Artix Linux](https://artixlinux.org) | Operating System |
+| [foot](https://codeberg.org/dnkl/foot)| Terminal Emulator |
+| [fish](https://fishshell.com) | Shell |
+| [Sway](https://swaywm.org) | Wayland Compositor |
+| [Firefox](https://firefox.com) | Web Browser |
 
 # Philosophy 📖
 

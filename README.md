@@ -10,12 +10,14 @@ I use it/its pronouns.
 
 | Software | Purpose |
 | --- | --- |
-| [Helix](https://helix-editor.com) | Editor |
+| [Helix](https://helix-editor.com) | Text Editor |
 | [Artix Linux](https://artixlinux.org) | Operating System |
 | [foot](https://codeberg.org/dnkl/foot)| Terminal Emulator |
 | [fish](https://fishshell.com) | Shell |
 | [Sway](https://swaywm.org) | Wayland Compositor |
 | [Firefox](https://firefox.com) | Web Browser |
+| [MPD](https://musicpd.org) | Music Player |
+| [Cantata](https://github.com/CDrummond/cantata) | MPD Frontend |
 
 # Philosophy 📖
 
@@ -25,7 +27,7 @@ them, software or not. I don't think that Richard Stallman went far enough.
 
 The "cloud" doesn't really exist; it's just other people's computers.
 
-I'm strongly opposed to "Web3" development, and things such as cryptocurrency and
+I'm strongly opposed to "Web3" development and software such as cryptocurrency and
 NFTs. I believe that cryptocurrency-based softwares are parasites on the free
 exchange of information because they introduce monetization and artificial
 scarcity into an already-functioning informational economy. Also, how the hell am

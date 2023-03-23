@@ -12,6 +12,25 @@ philosophy and ideals.
 
 # Skills and Experience 🌌
 
+My specialties lay in **game engine design**, **graphics programming**,
+**virtual worlds**, **software architecture**, and **performance programming**.
+
+I know lots of programming languages: **Rust**, **C/C++**, **Lua**, **Python**,
+**Lua**, some shading languages like **GLSL** and **WGSL**, and programming
+languages that only compile to **WebAssembly**, such as **Grain** and
+**AssemblyScript**. I'm also proficient with build system languages like
+**CMake**, **Meson**, **GitHub Actions**, **POSIX and Bash shell scripts**, and
+**Makefile**.
+
+My favorite things are **Rust**, **Vulkan**, **wgpu**, and **WebAssembly**. I
+spend a lot of my spare time finding cool new uses for WebAssembly in desktop
+applications.
+
+My main project right now is [Hearth][https://github.com/hearth-rs/hearth], a
+shared, always-on execution environment for constructing 3D virtual spaces from
+the inside. It's inspired by Erlang and Elixir, but uses WebAssembly for the
+main scripting language and is written in Rust.
+
 # Tooling 🛠️
 
 | Software | Purpose |

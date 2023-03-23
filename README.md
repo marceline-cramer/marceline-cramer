@@ -10,7 +10,7 @@ have since renounced the name "metaverse" because of its association with Web3 a
 collaborative virtual worlds software without compromising on free software
 philosophy and ideals.
 
-# Skills and Experience 🌌
+# Skills 🌌
 
 My specialties lay in **game engine design**, **graphics programming**,
 **virtual worlds**, **software architecture**, and **performance programming**.

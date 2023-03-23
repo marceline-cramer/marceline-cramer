@@ -4,6 +4,12 @@ I make tools.
 You can call me Marcy, Marci, Marcie, or Mars.
 I use it/its pronouns.
 
+I'm a former ["metaverse" developer](https://github.com/mondradiko/mondradiko), but
+have since renounced the name "metaverse" because of its association with Web3 and
+(more recently) ~~Meta~~ Facebook. My current efforts are focused on expanding
+collaborative virtual worlds software without compromising on free software
+philosophy and ideals.
+
 # Skills and Experience 🌌
 
 # Tooling 🛠️
@@ -33,12 +39,6 @@ exchange of information because they introduce monetization and artificial
 scarcity into an already-functioning informational economy. Also, how the hell am
 I supposed to work as a graphics programmer when the crypto farms keep buying all
 the damn graphics cards?
-
-I'm a former ["metaverse" developer](https://github.com/mondradiko/mondradiko), but
-have since renounced the name "metaverse" because of its association with Web3 and
-(more recently) ~~Meta~~ Facebook. My current efforts are focused on expanding
-collaborative virtual worlds software without compromising on free software
-ideals.
 
 # Crabs 🦀
 

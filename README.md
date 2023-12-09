@@ -4,12 +4,6 @@ I make tools.
 You can call me Marcy, Marci, Marcie, or Mars.
 I use it/its pronouns.
 
-I'm a former ["metaverse" developer](https://github.com/mondradiko/mondradiko), but
-have since renounced the name "metaverse" because of its association with Web3 and
-(more recently) ~~Meta~~ Facebook. My current efforts are focused on expanding
-collaborative virtual worlds software without compromising on free software
-philosophy and ideals.
-
 # Skills 🌌
 
 My specialties lay in **game engine design**, **graphics programming**,

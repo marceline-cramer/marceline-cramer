@@ -19,11 +19,6 @@ My favorite things are **Rust**, **Vulkan**, **wgpu**, and **WebAssembly**. I
 spend a lot of my spare time finding cool new uses for WebAssembly in desktop
 applications.
 
-My main project right now is [Hearth](https://github.com/hearth-rs/hearth), a
-shared, always-on execution environment for constructing 3D virtual spaces from
-the inside. It's inspired by Erlang and Elixir, but uses WebAssembly for the
-main scripting language and is written in Rust.
-
 # Tooling 🛠️
 
 | Software | Purpose |
